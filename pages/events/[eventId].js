@@ -8,7 +8,7 @@ function EventDetailPage(props) {
   const event = props.selectedEvent;
 
   if (!event) {
-    return <p>No event found...</p>;
+    return <p className='center'>Loading...</p>;
   }
 
   return (
