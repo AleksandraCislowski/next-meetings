@@ -10,7 +10,7 @@ function HomePage(props) {
         <title>NextJS Events</title>
         <meta
           name='description'
-          content='Find the event that suits you the best!'
+          content='Find the event that suits you the best! It is easy and fun!'
         />
       </Head>
       <NewsletterRegistration />
