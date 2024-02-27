@@ -1,6 +1,6 @@
 # NEXTEvents App
 
-This project is a single page application bulit with NextJS where you have displayed a bunch of events that you can join. There is a form that allows you to add your own comment to the specyfic event. You can also filter events after specyfic date if you want to. The project is connected to the MongoDb cluster database, but you need to create your own cluster in order to run in without errors.
+This project is a single page application bulit with NextJS where you have displayed a bunch of events that you can join. There is a form that allows you to add your own comment to the specific event. You can also filter events after specific date if you want to. The project is connected to the MongoDb cluster database, but you need to create your own cluster in order to run in without errors.
 ## What you can do here?
 
 You can browse events, filter them and add some comments if you would like to. There is also a test newsletter window, so you can add an e-mail to the database.
